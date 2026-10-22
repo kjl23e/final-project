@@ -18,3 +18,12 @@ https://assetstore.unity.com/packages/3d/props/weapons/qms-fantasy-sword-pack-fr
 https://assetstore.unity.com/packages/3d/props/weapons/weapon-sword-vol-01-19077
 https://assetstore.unity.com/packages/3d/props/weapons/viking-swords-pack-38199
 ### Mobs
+https://assetstore.unity.com/packages/3d/characters/creatures/monster-mutant-7-188552
+https://assetstore.unity.com/packages/3d/characters/humanoids/monster-low-poly-280220
+https://assetstore.unity.com/packages/package/244853
+https://assetstore.unity.com/packages/3d/characters/creatures/lowpoly-fantasy-monsters-pack-ver1-0-demo-98393
+https://assetstore.unity.com/packages/3d/characters/creatures/rpg-monster-duo-pbr-polyart-157762
+https://assetstore.unity.com/packages/3d/characters/creatures/level-1-monster-pack-77703
+
+## Additional
+I will learn programming by creating mobs in the game.
