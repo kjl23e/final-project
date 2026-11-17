@@ -8,12 +8,14 @@ public class EnemyAttack : MonoBehaviour
 
     Transform player;
     PlayerHealth playerHealth;
+    Animator animator;
     float timer;
 
     void Start()
     {
         player = Camera.main.transform;
         playerHealth = player.GetComponentInParent<PlayerHealth>();
+        animator = GetComponentInChildren<Animator>();
     }
 
     void Update()
@@ -24,6 +26,7 @@ public class EnemyAttack : MonoBehaviour
         if (dist <= attackRange && timer >= attackDelay)
         {
             timer = 0f;
+            animator.SetTrigger("Attack");
             playerHealth.TakeDamage(damage);
         }
     }
