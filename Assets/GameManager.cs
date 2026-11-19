@@ -26,7 +26,7 @@ public class GameManager : MonoBehaviour
 
         if (totalEnemies > 0 && kills >= totalEnemies)
         {
-            killText.text = "You win! Map cleared";
+            killText.text = "You win!";
             enabled = false;
         }
     }
